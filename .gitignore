@@ -1,0 +1,28 @@
+# Ignorar archivos compilados y carpetas generadas en todos los niveles
+**/target/
+**/out/
+**/lib_managed/
+**/src_managed/
+
+# Ignorar archivos temporales y de configuración
+**/*.class
+**/*.log
+**/*.bak
+**/*.tmp
+**/*.swp
+**/*.swo
+
+# Ignorar configuraciones de IDE
+**/.idea/
+**/.vscode/
+**/*.iml
+**/.metals/
+**/.ensime_cache/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración local
+**/.env
+**/.credentials
