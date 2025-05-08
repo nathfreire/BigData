@@ -1,0 +1,9 @@
+ ┌─────────────────────┐             ┌─────────────────────────┐             ┌──────────────────────────┐
+ │   Archivo JSON       │             │  Scala: case class       │             │  MongoDB: Document        │
+ │ (texto plano, JSON)  │  ---->      │ (estructura de datos)    │  ---->      │ (documento flexible tipo  │
+ │ ejemplo:             │  (parsear)  │ ejemplo:                 │  (convertir)│ JSON almacenado en Mongo) │
+ │ {                    │             │ case class Libro(        │             │ {                        │
+ │  "titulo": "Cien..." │             │   titulo: String,         │             │   "_id": ObjectId(...),  │
+ │  "autor": "Gabriel"  │             │   autor: String           │             │   "titulo": "Cien...",   │
+ │ }                    │             │ )                        │             │   "autor": ObjectId(...) │
+ └─────────────────────┘             └─────────────────────────┘             └──────────────────────────┘

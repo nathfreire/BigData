@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "fecha_publicacion": "1967-05-30"
+    },
+    {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "fecha_publicacion": "1605-01-16"
+    },
+    {
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "fecha_publicacion": "1813-01-28"
+    },
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "fecha_publicacion": "1949-06-08"
+    },
+    {
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "fecha_publicacion": "1925-04-10"
+    },
+    {
+        "titulo": "Crimen y castigo",
+        "autor": "Fiódor Dostoyevski",
+        "fecha_publicacion": "1866-01-01"
+    },
+    {
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "fecha_publicacion": "1851-10-18"
+    },
+    {
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "fecha_publicacion": "1890-07-01"
+    },
+    {
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "fecha_publicacion": "1915-10-01"
+    },
+    {
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "fecha_publicacion": "1953-10-19"
+    }
+]
